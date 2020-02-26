@@ -3140,6 +3140,22 @@ KiteBoard+kiteboard.setall+Allows a player to set the board of everyone to whate
 KiteBoard+kiteboard.status+This will show enabled, disabled or unavailable features.+/kb status,/kiteboard status
 KiteBoard+kiteboard.toggle+This allows players to turn on/off the scoreboard.+/kiteboard on,/kb on,/kiteboard off,/kb off
 KiteBoard+kiteboard.toggle.other+This allows players to turn on/off the scoreboard for other players.+/kiteboard toggle,/kb toggle
+KP-PVP+kitpvp.admin+Allows players to use /kp update+/kp update,/kitpvp update
+KP-PVP+kitpvp.kitclear+Allows players to use clear their kit an return to spawn+/kp clear,/kitpvp clear,/kitclear
+KP-PVP+kitpvp.kit.<kitname>+Allows players to use a kit
+KP-PVP+kitpvp.adminmode+Allows players to use /adminmode+/adminmode
+KP-PVP+kitpvp.staffchat+Allows players to use the KP-PVP included staffchat+/ksc,/kitsc
+KP-PVP+kitpvp.skit+Allows players to use /skit+/skit
+KP-PVP+kitpvp.unblockedcmds+Allows players to use blocked cmds while in kitpvp
+KP-PVP+kitpvp.setspawn+Allows players to set kitpvp spawn+/kpsetspawn
+KP-PVP+kitpvp.coins+Allows players to manage players coins+/givecoins,/removecoins
+KP-PVP+kitpvp.kpkickall+Allow players to use /kpkickall+/kpkickall
+KP-PVP+kitpvp.givekills+Allow players to use /kpkills+/kpkills
+KP-PVP+kitpvp.kitreload+Allows players to reload the plugin+/kitpvp reload,/kp reload,/kitreload
+KP-PVP+kitpvp.set1v1+Allow players to set the 1vs1+/set1v1
+KP-PVP+kitpvp.build+Allow players to break/place blocks while in kitpvp
+KP-PVP+kitpvp.createsigns+Allows players to create kitpvp signs
+KP-PVP+kitpvp.stats.see.other+Allows players to see others players stats+/stats,/kpstats
 LagMeter+lagmeter.*+Full Access to all LagMeter Commands+/lag,/mem,/lagmem,/lm,/uptime,/ping,/Iping
 LagMeter+lagmeter.command.lag+Gives access to the /lag command+/lag
 LagMeter+lagmeter.command.lagmem+Gives access to the combination /lagmem command+/lagmem,/lm
